@@ -43,3 +43,8 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'haml'
+gem 'bourbon'
+gem 'will_paginate'
+gem 'rails-i18n'
